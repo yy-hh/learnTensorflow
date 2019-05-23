@@ -2,4 +2,4 @@
 
 #解决tf无法下载问题，使用pip下载需要sudo获取权限
 
-#入门demo完成，下一步开始minst进阶课程
+#入门demo完成，下一步开始minist进阶课程
